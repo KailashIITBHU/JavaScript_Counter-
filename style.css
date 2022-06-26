@@ -1,0 +1,23 @@
+
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    /* background-color: aqua !important; */
+}
+.row{
+    justify-content: center;
+    text-align: center;
+}
+.col-md-6{
+    border: 4px solid black !important;
+    margin: auto !important;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.btn{
+    margin: 10px !important;
+    border: 2px solid black !important;
+}
+.container{
+    margin-top: 150px;
+}
